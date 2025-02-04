@@ -13,7 +13,7 @@ This project is a **Visitor Management System** built using Node.js. It allows s
 ## Installation
 1. Clone the repository:
    ```sh
-   git clone [repo url](https://github.com/KatekaniN/node-file-system.git)
+   git clone https://github.com/KatekaniN/node-file-system.git
    ```
 2. Navigate to the project directory:
    ```sh

@@ -1,0 +1,19 @@
+{
+  "name": "katekani-nyamandi-280-node-file-io-javascript",
+  "version": "1.0.0",
+  "description": "Node & File IO (280) For raw project instructions see: http://syllabus.africacode.net/projects/nodejs/file-io/",
+  "main": "src/visitor.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "keywords": [
+    "Mocks",
+    "Spies",
+    "Node"
+  ],
+  "author": "Katekani Nyamandi - knyamandi99@gmail.com",
+  "license": "ISC",
+  "devDependencies": {
+    "jasmine": "^5.2.0"
+  }
+}

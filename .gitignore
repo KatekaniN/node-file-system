@@ -1,0 +1,4 @@
+node_modules/
+dataFolder/
+
+package-lock.json

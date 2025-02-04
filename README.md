@@ -13,7 +13,7 @@ This project is a **Visitor Management System** built using Node.js. It allows s
 ## Installation
 1. Clone the repository:
    ```sh
-   git clone [<repo-url>](https://github.com/KatekaniN/node-file-system.git)
+   git clone [repo url](https://github.com/KatekaniN/node-file-system.git)
    ```
 2. Navigate to the project directory:
    ```sh
@@ -25,10 +25,6 @@ This project is a **Visitor Management System** built using Node.js. It allows s
    ```
 
 ## Usage
-### Importing the Module
-```js
-const { Visitor, load, generateId } = require("./visitor.js");
-```
 
 ### Adding a New Visitor
 ```js
